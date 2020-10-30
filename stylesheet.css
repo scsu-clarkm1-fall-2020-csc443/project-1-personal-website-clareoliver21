@@ -1,0 +1,55 @@
+.navbar{
+    font-family: "Andale Mono", AndaleMono, monospace; 
+}
+
+h1{
+    font-family: "Andale Mono", AndaleMono, monospace;
+    color: #CD428C;  
+}
+
+h2{
+    font-family: "Andale Mono", AndaleMono, monospace;
+    color: #CD428C; 
+}
+
+h3{
+    font-family: "Andale Mono", AndaleMono, monospace;
+}
+
+h4{
+    font-family: "Andale Mono", AndaleMono, monospace;
+}
+
+.btn{
+    background-color: #CD428C;
+    border-color: #CD428C;
+}
+
+.btn-primary:hover{
+    background-color: #B23B7B;
+    border-color: #B23B7B;
+}
+
+.btn-primary:active{
+    background-color: #B23B7B !important;
+    border-color: #B23B7B !important;
+}
+#heading1{
+    padding-top: 10px;
+}
+
+#heading2{
+    padding-top: 10px;
+}
+
+#heading3{
+    padding-top: 10px;
+}
+
+#heading4{
+    padding-top:10px;
+}
+
+#heading5{
+    padding-top:10px;
+}
